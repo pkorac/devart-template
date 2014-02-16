@@ -1,33 +1,44 @@
 # Project Title
-Insert the name of your project
+Walk-in Mind
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Peter Koraca, [pkorac](https://github.com/pkorac)
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Walking offers not just the possibility of moving our physical selves; to ancient Greeks it was a way of transferring knowledge, to Buddhists it is meditation in motion. Buddhism teaches that the mind has a neutral quality, can be trained and is moulded by the thoughts and emotions we expose it to. In doing that we are the creators of our own realities.
 
-## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+Walk-in mind is an interactive installation composed of 3-4 minute sessions in which visitors walk around a projected circle. Their act of walking generates real-time procedural drawings of re-imagined cityscapes. Motion detection interprets their movements and affects the various parameters of the generative city inside it. Google maps services provide the initial conditions and setting for the city's growth and properties. Maps JS api allows the visitors to later access their creation from web.
 
-[Example Link](http://www.google.com "Example Link")
+Enjoying long walks and being fascinated by maps I feel really passionate about taking the two beyond the physical.
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
+
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
 
-[Example Link](http://www.google.com "Example Link")
+- [Unity3D](http://unity3d.com)
+- [MaxMSP](http://cycling74.com)
+- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+- [Google Maps API Web Services](https://developers.google.com/maps/documentation/webservices)
+- [Google Chrome](https://www.google.com/intl/en/chrome/browser)
+- [Nodejs](http://nodejs.org)
+- [CouchDB](http://couchdb.apache.org)
+
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+### Initial (photoshop-ed) mockups of a city fabric growing
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+Main and side streets forming — a lot of empty space (like in rural towns)
+![Simple City](project_images/summary-sketches/city1.jpg)
+
+A few "big roads" and a lot of smaller streets connecting — densely populated (central London)
+![Simple City1](project_images/summary-sketches/city2.jpg)
+
+City growing within the circle — rural version of Paris (main road along the embankment with few small streets branching out, vast empty areas between them)
+![City growth](project_images/summary-sketches/growth1.jpg)
+
+
+Peter Koraca
+
+2014
+
+[www.peterkoraca.com](http://www.peterkoraca.com)

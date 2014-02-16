@@ -1,16 +1,30 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Maps Web Services API",
+            "Google Maps Javascript API"
         ],
         "platforms": [
-            "insert platforms"
+            "Google Compute Engine",
+            "Google Cloud Datastore",
+            "mac",
+            "windows",
+            "linux",
+            "web"
         ],
         "toolkits": [
-            "insert toolkits"
+            "unity",
+            "node.js",
+            "max msp"
         ]
     },
     "themes": [
-        "insert themes"
+        "walking",
+        "meditation",
+        "motion control",
+        "city fabric",
+        "maps",
+        "procedural drawing",
+        "generative drawing"
     ]
 }
