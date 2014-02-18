@@ -1,4 +1,3 @@
-
 # Walk-in Mind
 
 ## Author
@@ -7,7 +6,7 @@
 ## Description
 Walking offers not just the possibility of moving our physical selves; to ancient Greeks it was a way of transferring knowledge, to Buddhists it is meditation in motion. Buddhism teaches that the mind has a neutral quality, can be trained and is moulded by the thoughts and emotions we expose it to. In doing that we are the creators of our own realities.
 
-Walk-in mind is an interactive installation composed of 3-4 minute sessions in which visitors walk around a projected circle. Their act of walking generates real-time procedural drawings of re-imagined cityscapes. Motion detection interprets their movements and affects the various parameters of the generative city inside it. Google maps services provide the initial conditions and setting for the city's growth and properties. Maps JS api allows the visitors to later access their creation from web.
+Walk-in mind is an interactive installation composed of 3-4 minute sessions in which visitors walk around a projected circle. Their act of walking generates real-time procedural drawings of re-imagined cityscapes. Motion detection interprets their movements and affects the various paameters of the generative city inside it. Google maps services provide the initial conditions and setting for the city's growth and properties. Maps JS api allows the visitors to later access their creation from web.
 
 Enjoying long walks and being fascinated by maps I feel really passionate about taking the two beyond the physical.
 
