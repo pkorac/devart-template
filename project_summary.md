@@ -36,8 +36,6 @@ City growing within the circle — rural version of Paris (main road along the e
 ![City growth](project_images/summary-sketches/growth1.jpg)
 
 
-Peter Koraca
-
-2014
+Peter Koraca, 2014
 
 [www.peterkoraca.com](http://www.peterkoraca.com)
