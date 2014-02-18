@@ -1,3 +1,4 @@
+
 # Walk-in Mind
 
 ## Author
@@ -34,7 +35,6 @@ A few "big roads" and a lot of smaller streets connecting — densely populated 
 
 City growing within the circle — rural version of Paris (main road along the embankment with few small streets branching out, vast empty areas between them)
 ![City growth](project_images/summary-sketches/growth1.jpg)
-
 
 Peter Koraca, 2014
 
