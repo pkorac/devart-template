@@ -1,7 +1,6 @@
-# Project Title
-Walk-in Mind
+# Walk-in Mind
 
-## Authors
+## Author
 - Peter Koraca, [pkorac](https://github.com/pkorac)
 
 ## Description
