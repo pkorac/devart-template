@@ -8,8 +8,6 @@
             "Google Compute Engine",
             "Google Cloud Datastore",
             "mac",
-            "windows",
-            "linux",
             "web"
         ],
         "toolkits": [
